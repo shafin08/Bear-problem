@@ -14,4 +14,17 @@ Each person moves at a different pace:
 
 Each pair moves at the pace of its slowest member; i.e., Person A and Person B will take 10 minutes to cross if they go together. The problem is how can the whole group get to the other side of the bridge in the shortest possible time?
 
+The program is trying to find the solution with the least cost or time it takes to have every person reach the other side of the bridge.
+
+
+Representation: A, B, C, D, F ∈ {S,E}, s = (A, B, C, D, E)
+First four item of a node represent the four characters in the order given above and the last
+item represents the flashlight.
+
+s start = (S,S,S,S,S) means everyone including the flashlight is on the starting side
+
+s goal = (E,E,E,E,E) everyone has cross the bridge and the flashlight is on the end of the bridge
+
+
+
 
