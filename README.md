@@ -7,7 +7,11 @@ At most two people can cross at a time. A person or pair of people can only cros
 
 Each person moves at a different pace:
 
-• Person A can cross the bridge in 1.5 minute
-• Person B can cross the bridge in 3 minutes 
-• Person C can cross the bridge in 7.5 minutes
-• Person D can cross the bridge in 10 minutes
+- Person A can cross the bridge in 1.5 minute
+- Person B can cross the bridge in 3 minutes 
+- Person C can cross the bridge in 7.5 minutes
+- Person D can cross the bridge in 10 minutes
+
+Each pair moves at the pace of its slowest member; i.e., Person A and Person B will take 10 minutes to cross if they go together. The problem is how can the whole group get to the other side of the bridge in the shortest possible time?
+
+
